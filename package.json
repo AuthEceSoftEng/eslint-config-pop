@@ -15,5 +15,14 @@
     "configuration"
   ],
   "author": "Panagiotis Sakkis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-flowtype": "^3.4.2",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "standard": "^12.0.1"
+  }
 }

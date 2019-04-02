@@ -6,7 +6,7 @@ module.exports = {
         "es6": true,
         "mocha": true
     },
-    "plugins": ["react", "prettier", "flowtype", "import"],
+    "plugins": ["prettier", "flowtype", "import"],
     "parserOptions": {
         "sourceType": "module",
         "ecmaVersion": 6
