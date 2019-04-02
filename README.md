@@ -1,6 +1,10 @@
 # eslint-config-pop
 Eslint configuration with the most popular configurations found in the npm registry.
 
+## Install
+
+`npm install eslint-config-pop`
+
 ## Contents
  1. [Procedure](#procedure)
  2. [Results](#results)
